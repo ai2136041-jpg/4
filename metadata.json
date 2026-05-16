@@ -1,0 +1,8 @@
+{
+  "name": "بروبلوك",
+  "description": "محرك ألعاب يعتمد على البرمجة باللبنات (Blockly) ورسم الكائنات على شاشة Canvas",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
